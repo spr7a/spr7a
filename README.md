@@ -1,4 +1,5 @@
-### hi there 👋
+### hi there 👋currently learning cpp and javascript,
+im interested in open source and competitive programming
 
 <!--
 **spr7a/spr7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
