@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi there 👋
 
 <!--
 **spr7a/spr7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
