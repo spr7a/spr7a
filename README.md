@@ -52,6 +52,22 @@ I enjoy building practical projects, learning system design, and continuously im
 </div>
 
 ---
+```text
+                        _
+                       | \
+                       | |
+                       | |
+ |\                    | |
+/, ~\                 / /
+X    `-.....-------./ /
+ ~-. ~  ~             |
+    \             /   |
+     \  /_     ___\   /
+     | /\ ~~~~~   \ |
+     | | \        || |
+     | |\ \       || )
+    (_/ (_/      ((_/
+```
 
 
 <div align="right">
